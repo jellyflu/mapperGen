@@ -71,7 +71,7 @@ public class MGFrame extends JFrame {
 	public MGFrame() {
 		setResizable(false);
 		setFont(new Font("微软雅黑", Font.PLAIN, 18));
-		setTitle("mapperGen工具2");
+		setTitle("mapperGen工具");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 596, 585);
 		contentPane = new JPanel();
