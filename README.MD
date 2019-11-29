@@ -8,7 +8,7 @@
 
 ![截图](https://raw.githubusercontent.com/jellyflu/pub_resouces/master/mapperGen/5.png)
 
-#二、支持特性
+## 二、支持特性
 
 根据mysql表生成实体bean  
 根据mysql表生成mapper接口  
